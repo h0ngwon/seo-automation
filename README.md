@@ -4,9 +4,9 @@
 
 # 🚀 주요 기능
 
-✅ 엑셀 파일에서 URL을 자동 추출하여 Google에 색인 요청
-✅ OAuth 2.0 사용자 인증 방식 지원
-✅ 수천 개의 URL도 빠르게 처리 가능
+✅ 엑셀 파일에서 URL을 자동 추출하여 Google에 색인 요청 <br/>
+✅ OAuth 2.0 사용자 인증 방식 지원 <br/>
+✅ 수천 개의 URL도 빠르게 처리 가능 <br/>
 ✅ 색인 실패한 URL 목록 자동 출력
 
 # 📂 파일 구조
@@ -31,16 +31,16 @@ Google Search Console에서 OAuth 로그인에 사용할 계정 이메일을 해
 
 ## 2. 설치 및 실행
 
-# 저장소 클론
+### 저장소 클론
 ```bash
 git clone <repository_url>
 cd seo-automation
 ```
-# 의존성 설치
+### 의존성 설치
 ```bash
 npm install
 ```
-# 스크립트 실행
+### 스크립트 실행
 ```bash
 node seo-automation.js
 ```
@@ -60,6 +60,3 @@ npm install xlsx googleapis open
 <a href="https://developers.google.com/search/apis/indexing-api/v3/quickstart">Google Indexing API Quickstart</a>
 <br/>
 <a href="https://support.google.com/webmasters/answer/2453966?hl=ko">Google Search Console 사용자 추가 방법</a>
-
-# 📝 라이선스
-MIT License © 2025
