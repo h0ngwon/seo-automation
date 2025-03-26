@@ -1,0 +1,17 @@
+# Node.js 의존성
+node_modules/
+
+# 민감한 인증 정보 (사용자가 직접 준비)
+oauth_client.json
+token.json
+
+# URL 목록 파일 (사용자가 직접 준비)
+urls.xlsx
+
+# macOS 불필요 파일
+.DS_Store
+
+# IDE 관련 파일 (VSCode 등)
+.vscode/
+.idea/
+*.log
