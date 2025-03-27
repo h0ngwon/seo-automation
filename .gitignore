@@ -5,6 +5,9 @@ node_modules/
 oauth_client.json
 token.json
 
+# 캐시 파일
+indexed_cache.json
+
 # URL 목록 파일 (사용자가 직접 준비)
 urls.xlsx
 
